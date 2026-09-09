@@ -4,6 +4,9 @@ st.sidebar.title("Parámetros")
 st.write("Elaborado por : Stefany")
 
 
+st.image("PYTHON.png", width=300)
+st.sidebar,image("DMC.png")
+
 modulos = st.sidebar.selectbox("Selecione el módulo",["Listas", "Arreglos", "Funciones", "POO"])
 
 if modulos == "Listas":
