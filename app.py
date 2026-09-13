@@ -43,4 +43,6 @@ elif modulos == "Funciones":
   
 else:
   st.write("Te encuentras en el módulo de POO")
+  
+
  
